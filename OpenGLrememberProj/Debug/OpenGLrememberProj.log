@@ -1,0 +1,5 @@
+﻿  Render.cpp
+C:\Users\Иван\Desktop\Лаба 1 КГ\grafika_lab2-master\OpenGLrememberProj\Render.cpp(117,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Иван\Desktop\Лаба 1 КГ\grafika_lab2-master\OpenGLrememberProj\Render.cpp(117,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Иван\Desktop\Лаба 1 КГ\grafika_lab2-master\OpenGLrememberProj\Render.cpp(117,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\Иван\Desktop\Лаба 1 КГ\grafika_lab2-master\Debug\OpenGLrememberProj.exe
